@@ -5,7 +5,7 @@ This project was created to practice webpage layout, navigation bars, product ca
 
 ## Live Demo
 
-https://amazon-homepage-clone-lemon.vercel.app/
+https://ecommerce-homepage-clone.vercel.app/
 
 ## Features
 
